@@ -1,0 +1,47 @@
+.section-position {
+    background-color: blue;
+    background-image: url('../../images/adult-apple-device-business-code-340152.png');
+    background-size:cover;
+    padding: 75px 0;
+}
+.position-container{
+    margin: 0 auto;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    &__title {
+        padding: 0 9px;
+        text-align: center;
+        margin: 0;
+        color: $white-text-color;
+        font-family:'Open Sans';
+        font-size: 30px;
+        line-height: 34px;
+        text-transform: uppercase;
+        margin-bottom: 16px;
+    };
+    &__text {
+        font-family: 'Open Sans';
+        font-size: 16px;
+        text-align: center;
+        color: $white-text-color;
+        margin-bottom: 26px;
+    };
+    &__button {
+        margin: 0 auto;
+        color: $white-text-color;
+        font-size: 16px;
+        font-family: 'Open Sans';
+        width: 210px;
+        height: 38px;
+        border-radius:4px;
+        border: none;
+        background-color:$primary-color;
+        transition: linear 250ms ;
+        outline: none;
+            &:hover {
+                // background-color: burlywood;
+                background-color: $primary-color-btn;
+            }
+    };
+}

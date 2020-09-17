@@ -1,0 +1,27 @@
+.users-section {
+    padding: 76px 0;
+    background-color: $background-color-2;
+    padding: 80px 16px;
+}
+
+.users_container {
+    margin: 0 auto;
+    width: 326px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+     &__title {
+         font-family: 'Open Sans';
+         font-size: 30px;
+         text-align: center;
+         margin-bottom: 18px;
+     };
+     &__text {
+         font-family: 'Open Sans';
+         font-size: 16px;
+         color: $text-secondary-color;
+         text-align: justify;
+         margin-bottom: 38px;
+     };
+}
+

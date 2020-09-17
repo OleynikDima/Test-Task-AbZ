@@ -1,0 +1,28 @@
+.list_users{
+    &__list {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    };
+    &__item{
+        max-width: 200px;
+        text-align: center;
+        list-style: none;  
+        margin-bottom: 40px;  
+    };
+    &__images {
+        border-radius: 50%;
+        margin-bottom: 20px;
+    };
+    &__name {
+        margin-bottom: 21px;
+    };
+    &__position {
+        margin-bottom: 12px;
+    };
+    &__email {
+        margin-bottom: 12px;
+    };
+    // &__phone {};
+}

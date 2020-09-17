@@ -1,0 +1,77 @@
+.section-form {
+    margin: 0 auto;
+    width: 330px;
+    padding: 75px 0;
+};
+
+
+//title form
+.form-text_register {
+    padding: 0 13px;
+    &__title {
+        text-align: center;
+        font-family: 'Open Sans';
+        font-size: 30px;
+        margin-bottom: 21px;
+    };
+    &__text {
+        text-align: center;
+        font-size: 16px;
+        margin-bottom: 36px;
+    };
+}
+
+//from container
+.form-container {
+    display: flex;
+    flex-direction: column;
+    &__label {
+        font-family: 'Open Sans';
+        font-size: 16px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 27px;
+    };
+    &__input {
+       
+        font-size: 16px;
+        padding: 10px 9px;
+        margin-top: 14px;
+    };
+    &__position-box {
+        display: flex;
+        flex-direction: column;
+    }
+};
+
+
+//select position frontend checkbox
+.form-position-box{
+    display: flex;
+    flex-direction: column;
+    &__title{
+        margin-bottom: 27px;
+    };
+    &__input {
+        width: 16px;
+        height: 16px;
+        margin-right:10px;
+        margin-bottom:14px;
+    };
+}
+
+//deiscrabe phone number
+.discrabs::after{
+    position: relative;
+    content:'Enter phone number in open format';
+    display: block;
+    font-size: 12px;
+    color:$mobile-bar-color;
+    top:10px;
+    right: 0;
+};
+
+
+.blueCircleCheck{
+    background-color: $secondary-color;
+}

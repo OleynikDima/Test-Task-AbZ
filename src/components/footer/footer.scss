@@ -1,0 +1,9 @@
+.section-footer {
+    border-top: 1px solid #ececec;
+   &__text {
+       font-family: 'Open Sans';
+       padding: 22px 0;
+       text-align: center;
+       color:$black-color;
+   };
+}

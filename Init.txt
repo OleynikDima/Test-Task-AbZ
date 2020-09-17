@@ -1,2 +1,21 @@
 Start
-j
+TO DO 
+
+1.style form 
+    1.1-button "Browse"
+    1.2-radio check
+    1.3 style mb - input fix !! 
+    1.4 logic input form
+    1.5 logic chech box
+    1.6 logic save state 
+2. Users section 
+    2.1 fix style email.slice
+    2.2 add pagination
+    2.3 fix number phone 'probel)'
+3. Button register 
+    3.1 add func scroll to register
+
+4.Add Button Sandwich
+
+
+5. Add Desctop view

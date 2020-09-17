@@ -1,0 +1,16 @@
+
+//helpers 
+@import './normalize.scss';
+@import './helpers/font.scss';
+@import './helpers/grid.scss';
+@import './helpers/variables.scss';
+
+//base style
+@import './base.scss';
+@import '../components/header/style.scss';
+@import '../components/section-dev_position/style-section1.scss';
+@import '../components/section-about/about-style.scss';
+@import '../components/section_users/users_style.scss';
+@import '../components/list_users/list_users.scss';
+@import '../components/section_form/form-style.scss';
+@import '../components/footer/footer.scss';

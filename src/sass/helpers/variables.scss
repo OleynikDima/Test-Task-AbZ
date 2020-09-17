@@ -1,0 +1,26 @@
+// COLOR
+$primary-color:#ef5b4c;
+$primary-color-btn:#d24335;
+$secondary-color:#1b4a8a;
+$background-color:#ffffff;
+$white-text-color:#ffffff;
+$background-color-2:#f9f9f3;
+$mobile-bar-color:#767e86;
+$black-color:#000;
+$disabled-color:#d7d7d7;
+$text-secondary-color:#4c4b4b;
+
+
+$large-font-size: 1.5rem;
+$padding-normal: 0.5rem;
+
+@mixin subtle-shadow {
+    box-shadow: 0 0 4px -2px;
+  };
+
+.some_element {
+    @include subtle-shadow;
+    font-size: $large-font-size;
+    color: $black-color;
+    padding: $padding-normal;
+  }
