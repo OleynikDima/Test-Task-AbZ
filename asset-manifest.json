@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Test-Task-AbZ/static/css/main.5a0b65fe.chunk.css",
+    "main.js": "/Test-Task-AbZ/static/js/main.ab74c4e0.chunk.js",
+    "main.js.map": "/Test-Task-AbZ/static/js/main.ab74c4e0.chunk.js.map",
+    "runtime-main.js": "/Test-Task-AbZ/static/js/runtime-main.16f93209.js",
+    "runtime-main.js.map": "/Test-Task-AbZ/static/js/runtime-main.16f93209.js.map",
+    "static/js/2.558b6254.chunk.js": "/Test-Task-AbZ/static/js/2.558b6254.chunk.js",
+    "static/js/2.558b6254.chunk.js.map": "/Test-Task-AbZ/static/js/2.558b6254.chunk.js.map",
+    "index.html": "/Test-Task-AbZ/index.html",
+    "precache-manifest.db64a14cfab2eb0350a9f251d7e90c18.js": "/Test-Task-AbZ/precache-manifest.db64a14cfab2eb0350a9f251d7e90c18.js",
+    "service-worker.js": "/Test-Task-AbZ/service-worker.js",
+    "static/css/main.5a0b65fe.chunk.css.map": "/Test-Task-AbZ/static/css/main.5a0b65fe.chunk.css.map",
+    "static/js/2.558b6254.chunk.js.LICENSE.txt": "/Test-Task-AbZ/static/js/2.558b6254.chunk.js.LICENSE.txt",
+    "static/media/Layer_10.png": "/Test-Task-AbZ/static/media/Layer_10.8a6a2a89.png",
+    "static/media/main.scss": "/Test-Task-AbZ/static/media/dehaze-black-18dp.e7d81efc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f93209.js",
+    "static/js/2.558b6254.chunk.js",
+    "static/css/main.5a0b65fe.chunk.css",
+    "static/js/main.ab74c4e0.chunk.js"
+  ]
+}
